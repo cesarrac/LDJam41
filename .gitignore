@@ -32,3 +32,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+LDJam_41/Library/
+LDJam_41/Temp/
+LDJam_41/UnityPackageManager/
